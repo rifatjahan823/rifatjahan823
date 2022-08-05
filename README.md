@@ -4,10 +4,7 @@
 <h1 align="center">Hi 👋, I'm Rifat Jahan</h1>
 <h3 align="center">A passionate React Js frontend developer from Bangladesh</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifatjahan823&label=Profile%20views&color=0e75b6&style=flat" alt="rifatjahan823" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifatjahan823" alt="rifatjahan823" /></a> </p>
 
 - 🔭 I’m currently working on Upwork [Teacher directory](https://aesthetic-cuchufli-d4a5a9.netlify.app/)
 
@@ -25,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rifat-jahan-833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat-jahan-833" height="30" width="40" /></a>
-<a href="https://fb.com/rifat jahan (likha)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rifat jahan (likha)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rifat-jahan-833o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat-jahan-833o" height="30" width="40" /></a>
+<a href="https://fb.com/tom.offi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tom.offi.7" height="30" width="40" /></a>
 <a href="https://discord.gg/Rifat Jahan#2316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rifat Jahan#2316" height="30" width="40" /></a>
 </p>
 

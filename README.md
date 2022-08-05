@@ -1,4 +1,3 @@
-![Add a heading](https://user-images.githubusercontent.com/55455238/183211833-0fe0c5ff-2c63-46fc-8a58-6364534c96dc.png)
 
 ![Add a heading](https://user-images.githubusercontent.com/55455238/183211833-0fe0c5ff-2c63-46fc-8a58-6364534c96dc.png)
 

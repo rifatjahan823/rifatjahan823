@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Upwork [Teacher directory](https://aesthetic-cuchufli-d4a5a9.netlify.app/)
 
-- 🌱 I’m currently learning **Vuejs 3,Typescript**
+- 🌱 I’m currently learning **Typescript, Mongoose, Redux, GraphQL, SQL, Next.js, AWS, React Native**
 
 - 👨‍💻 All of my projects are available at [https://rifatjahanportfolio.netlify.app/](https://rifatjahanportfolio.netlify.app/)
 

@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on Dynamo Stacks.
 
-- 🌱 I’m currently learning **Typescript, Mongoose, Redux, GraphQL, SQL, Next.js, AWS, React Native**
+- 🌱 I’m currently learning **Greensock, three.js**
 
 - 👨‍💻 All of my projects are available at [https://rifatjahanportfolio.netlify.app/](https://rifatjahanportfolio.netlify.app/)
 
-- 💬 Ask me about **Next JS, React JS, JavaScript, TypeScript, Redux, Node JS, Express JS, PostgreSQL, Prisma, MongoDB, Mongoose, Tailwind CSS, Sass, Framer, web flow**
+- 💬 Ask me about **Next JS, React JS, JavaScript, TypeScript, Redux, Node JS, Express JS, MySQL, PostgreSQL, Prisma, MongoDB, Mongoose, Tailwind CSS, Sass, Framer, web flow**
 
 - 📫 How to reach me **rifatjahan833@gmail.com**
 

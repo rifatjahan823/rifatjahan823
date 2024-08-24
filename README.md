@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifatjahan823&label=Profile%20views&color=0e75b6&style=flat" alt="rifatjahan823" /> </p>
 
-- 🔭 I’m currently working on Upwork [Teacher directory](https://aesthetic-cuchufli-d4a5a9.netlify.app/)
+- 🔭 I’m currently working on Dynamo Stacks.
 
 - 🌱 I’m currently learning **Typescript, Mongoose, Redux, GraphQL, SQL, Next.js, AWS, React Native**
 

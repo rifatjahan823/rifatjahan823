@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rifatjahanportfolio.netlify.app/](https://rifatjahanportfolio.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Next JS, React JS, JavaScript, TypeScript, Redux, Node JS, Express JS, PostgreSQL, Prisma, MongoDB, Mongoose, Tailwind CSS, Sass, Framer, web flow**
 
 - 📫 How to reach me **rifatjahan833@gmail.com**
 

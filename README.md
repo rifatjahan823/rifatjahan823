@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rifat-jahan-833o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat-jahan-833o" height="30" width="40" /></a>
-<a href="https://fb.com/tom.offi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tom.offi.7" height="30" width="40" /></a>
+<a href="[https://fb.com/tom.offi.7](https://www.facebook.com/profile.php?id=61564576931450)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tom.offi.7" height="30" width="40" /></a>
 <a href="https://discord.gg/Rifat Jahan#2316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rifat Jahan#2316" height="30" width="40" /></a>
 </p>
 
